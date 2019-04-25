@@ -1,6 +1,6 @@
 # CS312-porlog-proj
 Contributors: Aiden Synkova, Sveta Sodol, Robert Desjardins
-</p>Course: CPSC 312 2017W1 offering
+</p>Course: CPSC 312 2017W1
 
 </p> Project Overview:
 
