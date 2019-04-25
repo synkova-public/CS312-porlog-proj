@@ -1,7 +1,6 @@
 # CS312-porlog-proj
 Contributors: Aiden Synkova, Sveta Sodol, Robert Desjardins
 Course: CPSC 312 2017W1 offering
-</p>
 ******************************************************************************************************************************************
 </p>Casting actors for a show is a time-consuming task which is error-prone due to the human factor when the cast includes a large number of actors, characters, special circumstances for the assignments and multiple show dates. Since this task is based on logical rules and satisfying multiple constraints, logic programming and Prolog might prove beneficial to serve as a solution to this task. We will build a sample program that a director can use for their theatre troupe when casting and scheduling shows. The original knowledge base will include basic information about the actors and their availability, and an original set of shows currently in the works - with general details on characters, performance dates and special rules to be followed when assignining actors to certain characters on certain dates. The product of the program will be a list for each of the performance dates with the assigned actor for each character role.
 
